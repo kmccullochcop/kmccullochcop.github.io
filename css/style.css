@@ -84,6 +84,8 @@ section {
     padding: 70px 0;
 }
 
+
+
 /*--------------------
 2. Navigation
 --------------------*/
@@ -103,14 +105,14 @@ section {
 	color: #fec503
 }
 .navbar-default .navbar-collapse {
-	border-color: rgba(255,255,255,.02)
+	border-color: #d695b4
 }
 .navbar-default .navbar-toggle {
-	background-color: #fed136;
-	border-color: #fed136
+	background-color: #d695b4;
+	border-color: #d695b4
 }
 .navbar-default .navbar-toggle .icon-bar {
-	background-color: #fff;
+	background-color: #d695b4;
 }
 .navbar-default .navbar-toggle:hover,.navbar-default .navbar-toggle:focus {
 	background-color: #fed136
@@ -129,12 +131,12 @@ section {
 
 .navbar-default .navbar-nav>.active>a {
 	border-radius: 0;
-	color: #fff;
-	background-color: #fed136
+	color: #d695b4;
+	background-color: #d695b4
 }
 .navbar-default .navbar-nav>.active>a:hover,.navbar-default .navbar-nav>.active>a:focus {
-	color: #fff;
-	background-color: #fec503
+	color: #d695b4;
+	background-color: #d695b4
 }
 
 @media (min-width:768px) {
@@ -160,7 +162,7 @@ section {
 		border-radius: 3px
 	}
 	.navbar-default.navbar-shrink {
-		background-color: #222;
+		background-color: #d695b4;
 		padding: 10px 0
 	}
 	.navbar-default.navbar-shrink .navbar-brand {
@@ -173,10 +175,11 @@ section {
 --------------------*/
 
 header {
-    background-image: url(../images/bg-masthead.jpg);
+    background: url(../images/bg-masthead.jpg) no-repeat center center fixed;
+    /*background-image: url(../images/bg-masthead.jpg);
     background-repeat: none;
-    background-attachment: scroll;
-    background-position: center center;
+    background-attachment: fixed;
+    background-position: center center;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -247,7 +250,7 @@ header .intro-text .intro-heading {
     font-size: 15px;
     font-weight: 300;
     line-height: 25px;
-    margin: 20px 100px 60px 100px;
+    margin: 20px 100px 40px 100px;
 }
 
 /*--------------------
@@ -271,8 +274,8 @@ font-size: 14px;
 }
 
 .ot-circle {
-height: 95px;
-    width: 95px;
+height: 65px;
+    width: 85px;
     text-align: center;
     line-height: 98px;
     color: #3E3E3E;
@@ -281,6 +284,16 @@ height: 95px;
     /* background-color: #E8E8E8; */
     margin: 0 2px 4px;
     font-size: 31px;
+}
+.about{
+  padding: 125px 0;
+}
+
+.about-img{
+  padding: 15px 0;
+  max-width: 375px;
+  max-height: 90%;
+
 }
 
 /*--------------------
@@ -364,21 +377,28 @@ figcaption {
     left: 0;
     width: 100%;
     height: 100%;
+    text-align: center;
 }
 
+
+.portfolio{
+  padding: 125px 0;
+}
 .ot-portfolio-item figure figcaption > a {
     z-index: 1000;
     text-indent: 200%;
     white-space: nowrap;
     font-size: 0;
     opacity: 0;
+    text-align: center;
 }
 .ot-portfolio-item figure figcaption, .ot-portfolio-item figure figcaption > a {
-    position: absolute;
+    position: sticky;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
+    text-align: center;
 }
 
 figure.effect-bubba {
@@ -460,6 +480,8 @@ figure.effect-bubba:hover p {
 	-webkit-transform: translate3d(0,0,0);
 	transform: translate3d(0,0,0);
 }
+
+
 
 /*--------------------
 4.4. Dark Short section (counters, quote, etc)
@@ -584,15 +606,21 @@ section#contact .form-group input, section#contact .form-group textarea {
     border-radius: 0;
     -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
     box-shadow: inset 0 0px 0px rgba(0,0,0,.075);
-    font-size: 13px;
+    font-size: 14 px;
 }
 
+.contact{
+  padding: 125px;
+
+}
 .contact h3 {
-    margin-bottom: 30px;
+    margin-bottom: 10px;
+    font-size: 25px;
 }
 
 .contact p {
-    font-size: 13px;
+    font-size: 20px;
+    padding: 5px;
 }
 
 .contact .day {
@@ -602,6 +630,21 @@ section#contact .form-group input, section#contact .form-group textarea {
 
 .contact i {
     margin-right: 5px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.contact img{
+  max-width: 90%;
+  padding: 10px;
+}
+
+.coop-img{
+  max-width: 50%;
+}
+
+.contact a:link{
+  color: #82A9E0;
 }
 
 /*--------------------
