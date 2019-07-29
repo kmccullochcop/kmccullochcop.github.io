@@ -393,7 +393,7 @@ figcaption {
     text-align: center;
 }
 .ot-portfolio-item figure figcaption, .ot-portfolio-item figure figcaption > a {
-    position: sticky;
+    position: absolute;
     top: 0;
     left: 0;
     width: 100%;
