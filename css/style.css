@@ -818,3 +818,51 @@ and (max-width : 480px) {
     font-size: 15pt;
 }
 }
+
+/*--------------------
+ Co-op reports
+--------------------*/
+.co-op{
+  padding: 125px;
+
+}
+
+.co-op h1{
+  font-size: 26pt;
+  text-transform: uppercase;
+}
+
+.co-op h2 {
+    font-size: 18pt;
+}
+
+.co-op h3 {
+    font-size: 14pt;
+}
+.co-op h4 {
+    font-size: 13pt;
+}
+.co-op p {
+    font-size: 12pt;
+    font-weight: 300;
+    line-height: 25px;
+    margin: 20px 100px 40px 100px;
+}
+
+.co-op-section {
+  font-size: 14pt;
+  padding-top: 10px;
+}
+
+.co-op-img{
+  padding: 10px 0;
+  max-width: 350px;
+  max-height: 90%;
+}
+
+.ccsBanner{
+  padding: 10px 0;
+  max-width: 350px;
+  max-height: 90%;
+  align-self: right;
+}

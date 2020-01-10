@@ -2256,15 +2256,16 @@ caption {
   padding-top: 8px;
   padding-bottom: 8px;
   color: #777;
-  text-align: left;
+  text-align: center;
 }
 th {
-  text-align: left;
+  text-align: center;
 }
 .table {
   width: 100%;
   max-width: 100%;
   margin-bottom: 20px;
+  text-align: center;
 }
 .table > thead > tr > th,
 .table > tbody > tr > th,
@@ -2276,6 +2277,7 @@ th {
   line-height: 1.42857143;
   vertical-align: top;
   border-top: 1px solid #ddd;
+  text-align: center;
 }
 .table > thead > tr > th {
   vertical-align: bottom;
@@ -2288,6 +2290,7 @@ th {
 .table > colgroup + thead > tr:first-child > td,
 .table > thead:first-child > tr:first-child > td {
   border-top: 0;
+  text-align: center;
 }
 .table > tbody + tbody {
   border-top: 2px solid #ddd;
