@@ -278,15 +278,15 @@ font-size: 12pt;
 }
 
 .ot-circle {
-height: 65px;
-    width: 85px;
+    height: 15px;
+    width: 45px;
     text-align: center;
-    line-height: 98px;
+    line-height: 95px;
     color: #3E3E3E;
-    /* border: 3px solid #000; */
-    border-radius: 100px;
+    /*border: 3px solid #000;*/
+    border-radius: 90px;
     /* background-color: #E8E8E8; */
-    margin: 0 2px 4px;
+    margin: 0 2px 2px;
     font-size: 22pt;
 }
 .about{
@@ -864,5 +864,11 @@ and (max-width : 480px) {
   padding: 10px 0;
   max-width: 350px;
   max-height: 90%;
+  align-self: right;
+}
+.lincsBanner{
+  padding: 10px 20px;
+  max-width: 200px;
+  max-height: 80%;
   align-self: right;
 }
