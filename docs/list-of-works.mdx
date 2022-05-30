@@ -1,0 +1,60 @@
+---
+sidebar_label: "Writing and Publications"
+sidebar_position: 1
+title: Writing and Publications
+---
+export const Tab = ({children, color}) => (
+  <span
+    style={{
+      display: 'inline-block',
+      'margin-left': '11vw',
+    }}>
+    {children}
+  </span>
+);
+
+export const Indent = ({children}) => (
+  <span
+    style={{
+      display: 'inline-block',
+      'margin-left': '4vw',
+    }}>
+    {children}
+  </span>
+);
+
+export const RightAlign= ({children, color}) => (
+  <div style={{
+    'text-align':'right',
+  }}>
+    <span
+      style={{
+        'align-content': 'right',
+      }}>
+      {children}
+    </span>
+  </div>
+);
+
+## Writing Samples
+- ["Defining The Word Wanting"](Writing%20Samples/defining-the-word-wanting.mdx)
+- ["Vegan Butternut Squash Soup"](Writing%20Samples/vegan-butternut-squash-soup.mdx)
+
+## Published Work:
+- [*Stem to Sternum*](https://www.amazon.ca/Stem-Sternum-Kathleen-McCulloch-Cop/dp/B09RM5XDBV/ref=mp_s_a_1_1?crid=Z6JVEZ6ADQDD&keywords=stem+to+sternum&qid=1643984049&sprefix=stem+to+sternum%2Caps%2C101&sr=8-1), January 2022
+- ["2 am in the greenhouse we call bed"](Writing%20Samples/2-am-in-the-greenhouse-we-call-bed.mdx), *PACE Magazine*, August 2018
+- "January 3, 12.56 a.m. (I will love you one day)", *The Red Book*, June 2017
+- ["Conversations with Stone Women"](Writing%20Samples/conversations-with-stone-women.mdx), *The Red Book*, June 2017
+- "After I Fell For You", [*Pot-Pourri*](https://www.fopla-aabpo.ca/shop/pot-pourri-2014/), September 2014
+
+export const Highlight = ({children, color}) => (
+  <span
+    style={{
+      backgroundColor: color,
+      borderRadius: '2px',
+      color: '#fff',
+      padding: '0.2rem',
+    }}>
+    {children}
+  </span>
+);
