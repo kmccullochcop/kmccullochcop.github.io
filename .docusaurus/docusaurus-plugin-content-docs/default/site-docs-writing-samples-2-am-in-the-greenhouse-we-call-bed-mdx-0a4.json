@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Writing Samples/am-in-the-greenhouse-we-call-bed",
+  "id": "Writing Samples/am-in-the-greenhouse-we-call-bed",
+  "title": "2 am In The Greenhouse We Call Bed",
+  "description": "written July 2018, published in PACE Magazine August 2018",
+  "source": "@site/docs/Writing Samples/2-am-in-the-greenhouse-we-call-bed.mdx",
+  "sourceDirName": "Writing Samples",
+  "slug": "/Writing Samples/am-in-the-greenhouse-we-call-bed",
+  "permalink": "/docs/Writing Samples/am-in-the-greenhouse-we-call-bed",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "2 am In The Greenhouse We Call Bed",
+    "sidebar_position": 4,
+    "title": "2 am In The Greenhouse We Call Bed"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vegan Butternut Squash Soup",
+    "permalink": "/docs/Writing Samples/vegan-butternut-squash-soup"
+  },
+  "next": {
+    "title": "Conversations With Stone Women",
+    "permalink": "/docs/Writing Samples/conversations-with-stone-women"
+  }
+}

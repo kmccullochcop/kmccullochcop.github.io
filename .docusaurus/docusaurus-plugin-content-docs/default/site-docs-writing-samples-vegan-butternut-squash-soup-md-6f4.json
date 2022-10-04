@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Writing Samples/vegan-butternut-squash-soup",
+  "id": "Writing Samples/vegan-butternut-squash-soup",
+  "title": "Vegan Butternut Squash Soup",
+  "description": "March 2020",
+  "source": "@site/docs/Writing Samples/vegan-butternut-squash-soup.md",
+  "sourceDirName": "Writing Samples",
+  "slug": "/Writing Samples/vegan-butternut-squash-soup",
+  "permalink": "/docs/Writing Samples/vegan-butternut-squash-soup",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Vegan Butternut Squash Soup",
+    "sidebar_position": 3,
+    "title": "Vegan Butternut Squash Soup"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Defining The Word 'Wanting'",
+    "permalink": "/docs/Writing Samples/defining-the-word-wanting"
+  }
+}

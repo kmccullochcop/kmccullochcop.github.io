@@ -1,0 +1,38 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "list-of-works",
+          "docs": [
+            {
+              "id": "list-of-works",
+              "path": "/docs/list-of-works",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Writing Samples/defining-the-word-wanting",
+              "path": "/docs/Writing Samples/defining-the-word-wanting",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/list-of-works",
+                "label": "Writing and Publications"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

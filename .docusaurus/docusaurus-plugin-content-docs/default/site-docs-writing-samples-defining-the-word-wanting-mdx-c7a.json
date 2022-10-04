@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Writing Samples/defining-the-word-wanting",
+  "id": "Writing Samples/defining-the-word-wanting",
+  "title": "Defining The Word Wanting",
+  "description": "written June 2021, published in Stem to Sternum January 2022",
+  "source": "@site/docs/Writing Samples/defining-the-word-wanting.mdx",
+  "sourceDirName": "Writing Samples",
+  "slug": "/Writing Samples/defining-the-word-wanting",
+  "permalink": "/docs/Writing Samples/defining-the-word-wanting",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Defining The Word 'Wanting'",
+    "sidebar_position": 2,
+    "title": "Defining The Word Wanting"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Writing and Publications",
+    "permalink": "/docs/list-of-works"
+  }
+}

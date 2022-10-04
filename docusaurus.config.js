@@ -65,9 +65,46 @@ const config = {
             position: 'left',
             label: 'Writing',
           },
+          {
+            label: 'Resume',
+            to: '/McCullochCop_Kathleen_Resume.pdf',
+            target:'_blank',
+          },
         ],
       },
       footer: {
+        links: [
+          {
+            title: 'Contact',
+            items: [
+              {
+                label: 'kmccu102[at]uottawa[dot]ca',
+                to: "/",
+              },
+              {
+                label: '@KathleenMcCop on Twitter',
+                href: 'https://twitter.com/KathleenMcCop',
+              }
+            ],
+          },
+          {
+            title: 'Projects',
+            items: [
+              {
+                label: 'Github',
+                href: 'https://github.com/kmccullochcop',
+              },
+              {
+                label: 'Gitlab',
+                href: 'https://gitlab.com/kmccullochcop',
+              },
+              {
+                label: 'Posture Bot Twitter (Made with TweePy API)',
+                href: 'https://twitter.com/situpstr8bot',
+              },
+            ],
+          }
+        ],
         style:'dark',
         copyright: `Copyright © ${new Date().getFullYear()} Kathleen McCulloch-Cop. Built with Docusaurus.`,
       },

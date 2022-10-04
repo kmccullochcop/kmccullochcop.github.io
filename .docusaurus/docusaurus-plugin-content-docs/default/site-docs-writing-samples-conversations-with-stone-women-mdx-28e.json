@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Writing Samples/conversations-with-stone-women",
+  "id": "Writing Samples/conversations-with-stone-women",
+  "title": "Conversations With Stone Women",
+  "description": "written April 2017",
+  "source": "@site/docs/Writing Samples/conversations-with-stone-women.mdx",
+  "sourceDirName": "Writing Samples",
+  "slug": "/Writing Samples/conversations-with-stone-women",
+  "permalink": "/docs/Writing Samples/conversations-with-stone-women",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_label": "Conversations With Stone Women",
+    "sidebar_position": 6,
+    "title": "Conversations With Stone Women"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vegan Butternut Squash Soup",
+    "permalink": "/docs/Writing Samples/vegan-butternut-squash-soup"
+  }
+}

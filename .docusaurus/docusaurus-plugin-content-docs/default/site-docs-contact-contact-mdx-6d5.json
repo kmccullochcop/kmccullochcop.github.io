@@ -1,0 +1,19 @@
+{
+  "unversionedId": "Contact/contact",
+  "id": "Contact/contact",
+  "title": "Writing and Publications",
+  "description": "Writing Samples",
+  "source": "@site/docs/Contact/contact.mdx",
+  "sourceDirName": "Contact",
+  "slug": "/Contact/",
+  "permalink": "/docs/Contact/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Writing and Publications",
+    "sidebar_position": 1,
+    "title": "Writing and Publications"
+  }
+}

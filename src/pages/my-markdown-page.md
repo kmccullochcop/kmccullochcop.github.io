@@ -7,7 +7,6 @@ slug: /my-custom-url
 
 ## Markdown heading
 
-Markdown text with [links](./hello.md)
 
 # My Markdown page
 

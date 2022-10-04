@@ -27,6 +27,6 @@
   width: 50%;
 }
 .aboutPic{
-  height: 400px;
-  width: 400px;
+  max-width: 300px;
+  max-height: 250px;
 }
