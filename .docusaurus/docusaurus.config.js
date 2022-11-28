@@ -67,6 +67,11 @@ export default {
           "docId": "list-of-works",
           "position": "left",
           "label": "Writing Samples"
+        },
+        {
+          "to": "blog",
+          "label": "Blog",
+          "position": "left"
         }
       ],
       "hideOnScroll": false

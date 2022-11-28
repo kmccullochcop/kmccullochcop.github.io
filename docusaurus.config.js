@@ -79,6 +79,11 @@ const config = {
             position: 'left',
             label: 'Writing Samples',
           },
+          {
+            to: 'blog',
+            label: 'Blog',
+            position: 'left'
+          },
 
         ],
       },

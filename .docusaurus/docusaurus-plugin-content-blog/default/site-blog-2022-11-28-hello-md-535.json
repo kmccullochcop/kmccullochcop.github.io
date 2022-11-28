@@ -1,0 +1,33 @@
+{
+  "permalink": "/blog/welcome-docusaurus-v2",
+  "source": "@site/blog/2022-11-28-hello.md",
+  "title": "Welcome!",
+  "description": "First blog post.",
+  "date": "2022-11-28T00:00:00.000Z",
+  "formattedDate": "November 28, 2022",
+  "tags": [
+    {
+      "label": "hello",
+      "permalink": "/blog/tags/hello"
+    }
+  ],
+  "readingTime": 0.045,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Kathleen McCulloch-Cop",
+      "imageURL": "https://github.com/kmccullochcop/kmccullochcop.github.io/img/profilePic.png",
+      "key": "katie"
+    }
+  ],
+  "frontMatter": {
+    "title": "Welcome!",
+    "description": "First blog post.",
+    "slug": "welcome-docusaurus-v2",
+    "authors": "katie",
+    "tags": [
+      "hello"
+    ],
+    "hide_table_of_contents": false
+  }
+}
