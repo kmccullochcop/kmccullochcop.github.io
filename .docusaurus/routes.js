@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '379'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '81b'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '8ea'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'ded'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', 'ac5'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '092'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '4b9'),
-    exact: true
-  },
-  {
     path: '/blog',
     component: ComponentCreator('/blog', '075'),
     exact: true
@@ -119,17 +84,47 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '3cd'),
+    component: ComponentCreator('/docs', '770'),
     routes: [
       {
-        path: '/docs/list-of-works',
-        component: ComponentCreator('/docs/list-of-works', '772'),
+        path: '/docs/Digital-Hub/assessments',
+        component: ComponentCreator('/docs/Digital-Hub/assessments', 'e3c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Writing Samples/defining-the-word-wanting',
-        component: ComponentCreator('/docs/Writing Samples/defining-the-word-wanting', '6b6'),
+        path: '/docs/Digital-Hub/commitment-students',
+        component: ComponentCreator('/docs/Digital-Hub/commitment-students', 'c54'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Digital-Hub/learning-leadership',
+        component: ComponentCreator('/docs/Digital-Hub/learning-leadership', '3f2'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Digital-Hub/personal-philosophy',
+        component: ComponentCreator('/docs/Digital-Hub/personal-philosophy', 'cbd'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Digital-Hub/professional-development',
+        component: ComponentCreator('/docs/Digital-Hub/professional-development', '2c9'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Digital-Hub/teaching-competencies',
+        component: ComponentCreator('/docs/Digital-Hub/teaching-competencies', '1f6'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/list-of-works',
+        component: ComponentCreator('/docs/list-of-works', '772'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

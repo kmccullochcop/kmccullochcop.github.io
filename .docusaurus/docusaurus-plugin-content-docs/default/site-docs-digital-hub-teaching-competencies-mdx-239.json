@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Digital Hub/teaching-competencies",
+  "id": "Digital Hub/teaching-competencies",
+  "title": "Demonstration of Teaching Competencies",
+  "description": "",
+  "source": "@site/docs/Digital Hub/teaching-competencies.mdx",
+  "sourceDirName": "Digital Hub",
+  "slug": "/Digital Hub/teaching-competencies",
+  "permalink": "/docs/Digital Hub/teaching-competencies",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Demonstration of Teaching Competencies",
+    "sidebar_position": 2,
+    "title": "Demonstration of Teaching Competencies"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Personal Philosophy of Education",
+    "permalink": "/docs/Digital Hub/personal-philosophy"
+  },
+  "next": {
+    "title": "Commitment to Students and Student Learning",
+    "permalink": "/docs/Digital Hub/commitment-students"
+  }
+}

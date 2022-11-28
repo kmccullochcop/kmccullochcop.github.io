@@ -1,8 +1,8 @@
 {
   "unversionedId": "list-of-works",
   "id": "list-of-works",
-  "title": "Writing and Publications",
-  "description": "Writing Samples",
+  "title": "Publications and Writing Samples",
+  "description": "Published Work:",
   "source": "@site/docs/list-of-works.mdx",
   "sourceDirName": ".",
   "slug": "/list-of-works",
@@ -10,15 +10,15 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_label": "Writing and Publications",
-    "sidebar_position": 1,
-    "title": "Writing and Publications"
+    "sidebar_label": "Publications and Writing Samples",
+    "sidebar_position": 2,
+    "title": "Publications and Writing Samples"
   },
   "sidebar": "tutorialSidebar",
-  "next": {
-    "title": "Defining The Word 'Wanting'",
-    "permalink": "/docs/Writing Samples/defining-the-word-wanting"
+  "previous": {
+    "title": "Assessments",
+    "permalink": "/docs/Digital-Hub/assessments"
   }
 }

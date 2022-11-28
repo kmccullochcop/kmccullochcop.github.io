@@ -12,6 +12,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/sunflower.ico',
+  deploymentBranch: 'master',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -60,16 +61,25 @@ const config = {
         },
         items: [
           {
-            type: 'doc',
-            docId: 'list-of-works',
-            position: 'left',
-            label: 'Writing',
-          },
-          {
             label: 'Resume',
             to: '/McCullochCop_Kathleen_Resume.pdf',
             target:'_blank',
+            position: 'left',
           },
+          {
+            type: 'doc',
+            label: 'Digital Hub',
+            docId: 'Digital-Hub/personal-philosophy',
+            sidebarId: 'Digital Hub',
+            position: 'left',
+          },
+          {
+            type: 'doc',
+            docId: 'list-of-works',
+            position: 'left',
+            label: 'Writing Samples',
+          },
+
         ],
       },
       footer: {

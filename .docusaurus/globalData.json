@@ -8,16 +8,41 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "list-of-works",
+          "mainDocId": "Digital-Hub/personal-philosophy",
           "docs": [
             {
-              "id": "list-of-works",
-              "path": "/docs/list-of-works",
+              "id": "Digital-Hub/assessments",
+              "path": "/docs/Digital-Hub/assessments",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Writing Samples/defining-the-word-wanting",
-              "path": "/docs/Writing Samples/defining-the-word-wanting",
+              "id": "Digital-Hub/commitment-students",
+              "path": "/docs/Digital-Hub/commitment-students",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Digital-Hub/learning-leadership",
+              "path": "/docs/Digital-Hub/learning-leadership",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Digital-Hub/personal-philosophy",
+              "path": "/docs/Digital-Hub/personal-philosophy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Digital-Hub/professional-development",
+              "path": "/docs/Digital-Hub/professional-development",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Digital-Hub/teaching-competencies",
+              "path": "/docs/Digital-Hub/teaching-competencies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "list-of-works",
+              "path": "/docs/list-of-works",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -25,8 +50,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/list-of-works",
-                "label": "Writing and Publications"
+                "path": "/docs/Digital-Hub/personal-philosophy",
+                "label": "Personal Philosophy of Education"
               }
             }
           }

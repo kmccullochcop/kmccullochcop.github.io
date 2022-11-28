@@ -1,0 +1,28 @@
+{
+  "unversionedId": "digital-hub-topics",
+  "id": "digital-hub-topics",
+  "title": "Digital Hub",
+  "description": "",
+  "source": "@site/docs/digital-hub-topics.mdx",
+  "sourceDirName": ".",
+  "slug": "/digital-hub-topics",
+  "permalink": "/docs/digital-hub-topics",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Digital Hub",
+    "sidebar_position": 1,
+    "title": "Digital Hub"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Assessments",
+    "permalink": "/docs/Digital-Hub/assessments"
+  },
+  "next": {
+    "title": "Publications and Writing Samples",
+    "permalink": "/docs/list-of-works"
+  }
+}

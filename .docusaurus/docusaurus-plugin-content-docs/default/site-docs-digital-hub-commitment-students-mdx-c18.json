@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Digital Hub/commitment-students",
+  "id": "Digital Hub/commitment-students",
+  "title": "Commitment to Students and Student Learning",
+  "description": "",
+  "source": "@site/docs/Digital Hub/commitment-students.mdx",
+  "sourceDirName": "Digital Hub",
+  "slug": "/Digital Hub/commitment-students",
+  "permalink": "/docs/Digital Hub/commitment-students",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Commitment to Students and Student Learning",
+    "sidebar_position": 3,
+    "title": "Commitment to Students and Student Learning"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Demonstration of Teaching Competencies",
+    "permalink": "/docs/Digital Hub/teaching-competencies"
+  },
+  "next": {
+    "title": "Leadership in the Learning Community",
+    "permalink": "/docs/Digital Hub/learning-leadership"
+  }
+}

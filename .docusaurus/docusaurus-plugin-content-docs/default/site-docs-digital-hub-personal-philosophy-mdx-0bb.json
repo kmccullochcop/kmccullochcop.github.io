@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Digital Hub/personal-philosophy",
+  "id": "Digital Hub/personal-philosophy",
+  "title": "Personal Philosophy of Education",
+  "description": "",
+  "source": "@site/docs/Digital Hub/personal-philosophy.mdx",
+  "sourceDirName": "Digital Hub",
+  "slug": "/Digital Hub/personal-philosophy",
+  "permalink": "/docs/Digital Hub/personal-philosophy",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Personal Philosophy of Education",
+    "sidebar_position": 1,
+    "title": "Personal Philosophy of Education"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Demonstration of Teaching Competencies",
+    "permalink": "/docs/Digital Hub/teaching-competencies"
+  }
+}

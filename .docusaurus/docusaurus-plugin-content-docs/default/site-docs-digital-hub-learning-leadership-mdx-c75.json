@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Digital-Hub/learning-leadership",
+  "id": "Digital-Hub/learning-leadership",
+  "title": "Leadership in the Learning Community",
+  "description": "",
+  "source": "@site/docs/Digital-Hub/learning-leadership.mdx",
+  "sourceDirName": "Digital-Hub",
+  "slug": "/Digital-Hub/learning-leadership",
+  "permalink": "/docs/Digital-Hub/learning-leadership",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "Leadership in the Learning Community",
+    "sidebar_position": 4,
+    "title": "Leadership in the Learning Community"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Commitment to Students and Student Learning",
+    "permalink": "/docs/Digital-Hub/commitment-students"
+  },
+  "next": {
+    "title": "Professional Development and Knowledge",
+    "permalink": "/docs/Digital-Hub/professional-development"
+  }
+}

@@ -17,10 +17,174 @@
           "contentPathLocalized": "/Users/kathleenmcculloch-cop/Desktop/Projects/CodingProjects/my-website/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
+              "unversionedId": "Digital-Hub/assessments",
+              "id": "Digital-Hub/assessments",
+              "title": "Assessments",
+              "description": "",
+              "source": "@site/docs/Digital-Hub/assessments.mdx",
+              "sourceDirName": "Digital-Hub",
+              "slug": "/Digital-Hub/assessments",
+              "permalink": "/docs/Digital-Hub/assessments",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_label": "Assessments",
+                "sidebar_position": 6,
+                "title": "Assessments"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Professional Development and Knowledge",
+                "permalink": "/docs/Digital-Hub/professional-development"
+              },
+              "next": {
+                "title": "Publications and Writing Samples",
+                "permalink": "/docs/list-of-works"
+              }
+            },
+            {
+              "unversionedId": "Digital-Hub/commitment-students",
+              "id": "Digital-Hub/commitment-students",
+              "title": "Commitment to Students and Student Learning",
+              "description": "",
+              "source": "@site/docs/Digital-Hub/commitment-students.mdx",
+              "sourceDirName": "Digital-Hub",
+              "slug": "/Digital-Hub/commitment-students",
+              "permalink": "/docs/Digital-Hub/commitment-students",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_label": "Commitment to Students and Student Learning",
+                "sidebar_position": 3,
+                "title": "Commitment to Students and Student Learning"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Demonstration of Teaching Competencies",
+                "permalink": "/docs/Digital-Hub/teaching-competencies"
+              },
+              "next": {
+                "title": "Leadership in the Learning Community",
+                "permalink": "/docs/Digital-Hub/learning-leadership"
+              }
+            },
+            {
+              "unversionedId": "Digital-Hub/learning-leadership",
+              "id": "Digital-Hub/learning-leadership",
+              "title": "Leadership in the Learning Community",
+              "description": "",
+              "source": "@site/docs/Digital-Hub/learning-leadership.mdx",
+              "sourceDirName": "Digital-Hub",
+              "slug": "/Digital-Hub/learning-leadership",
+              "permalink": "/docs/Digital-Hub/learning-leadership",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_label": "Leadership in the Learning Community",
+                "sidebar_position": 4,
+                "title": "Leadership in the Learning Community"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Commitment to Students and Student Learning",
+                "permalink": "/docs/Digital-Hub/commitment-students"
+              },
+              "next": {
+                "title": "Professional Development and Knowledge",
+                "permalink": "/docs/Digital-Hub/professional-development"
+              }
+            },
+            {
+              "unversionedId": "Digital-Hub/personal-philosophy",
+              "id": "Digital-Hub/personal-philosophy",
+              "title": "Personal Philosophy of Education",
+              "description": "",
+              "source": "@site/docs/Digital-Hub/personal-philosophy.mdx",
+              "sourceDirName": "Digital-Hub",
+              "slug": "/Digital-Hub/personal-philosophy",
+              "permalink": "/docs/Digital-Hub/personal-philosophy",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_label": "Personal Philosophy of Education",
+                "sidebar_position": 1,
+                "title": "Personal Philosophy of Education"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Demonstration of Teaching Competencies",
+                "permalink": "/docs/Digital-Hub/teaching-competencies"
+              }
+            },
+            {
+              "unversionedId": "Digital-Hub/professional-development",
+              "id": "Digital-Hub/professional-development",
+              "title": "Professional Development and Knowledge",
+              "description": "",
+              "source": "@site/docs/Digital-Hub/professional-development.mdx",
+              "sourceDirName": "Digital-Hub",
+              "slug": "/Digital-Hub/professional-development",
+              "permalink": "/docs/Digital-Hub/professional-development",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_label": "Professional Development and Knowledge",
+                "sidebar_position": 5,
+                "title": "Professional Development and Knowledge"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Leadership in the Learning Community",
+                "permalink": "/docs/Digital-Hub/learning-leadership"
+              },
+              "next": {
+                "title": "Assessments",
+                "permalink": "/docs/Digital-Hub/assessments"
+              }
+            },
+            {
+              "unversionedId": "Digital-Hub/teaching-competencies",
+              "id": "Digital-Hub/teaching-competencies",
+              "title": "Demonstration of Teaching Competencies",
+              "description": "",
+              "source": "@site/docs/Digital-Hub/teaching-competencies.mdx",
+              "sourceDirName": "Digital-Hub",
+              "slug": "/Digital-Hub/teaching-competencies",
+              "permalink": "/docs/Digital-Hub/teaching-competencies",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_label": "Demonstration of Teaching Competencies",
+                "sidebar_position": 2,
+                "title": "Demonstration of Teaching Competencies"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Personal Philosophy of Education",
+                "permalink": "/docs/Digital-Hub/personal-philosophy"
+              },
+              "next": {
+                "title": "Commitment to Students and Student Learning",
+                "permalink": "/docs/Digital-Hub/commitment-students"
+              }
+            },
+            {
               "unversionedId": "list-of-works",
               "id": "list-of-works",
-              "title": "Writing and Publications",
-              "description": "Writing Samples",
+              "title": "Publications and Writing Samples",
+              "description": "Published Work:",
               "source": "@site/docs/list-of-works.mdx",
               "sourceDirName": ".",
               "slug": "/list-of-works",
@@ -28,40 +192,16 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_label": "Writing and Publications",
-                "sidebar_position": 1,
-                "title": "Writing and Publications"
-              },
-              "sidebar": "tutorialSidebar",
-              "next": {
-                "title": "Defining The Word 'Wanting'",
-                "permalink": "/docs/Writing Samples/defining-the-word-wanting"
-              }
-            },
-            {
-              "unversionedId": "Writing Samples/defining-the-word-wanting",
-              "id": "Writing Samples/defining-the-word-wanting",
-              "title": "Defining The Word Wanting",
-              "description": "written June 2021, published in Stem to Sternum January 2022",
-              "source": "@site/docs/Writing Samples/defining-the-word-wanting.mdx",
-              "sourceDirName": "Writing Samples",
-              "slug": "/Writing Samples/defining-the-word-wanting",
-              "permalink": "/docs/Writing Samples/defining-the-word-wanting",
-              "draft": false,
-              "tags": [],
-              "version": "current",
               "sidebarPosition": 2,
               "frontMatter": {
-                "sidebar_label": "Defining The Word 'Wanting'",
+                "sidebar_label": "Publications and Writing Samples",
                 "sidebar_position": 2,
-                "title": "Defining The Word Wanting"
+                "title": "Publications and Writing Samples"
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Writing and Publications",
-                "permalink": "/docs/list-of-works"
+                "title": "Assessments",
+                "permalink": "/docs/Digital-Hub/assessments"
               }
             }
           ],
@@ -69,22 +209,47 @@
           "sidebars": {
             "tutorialSidebar": [
               {
-                "type": "doc",
-                "id": "list-of-works",
-                "label": "Writing and Publications"
-              },
-              {
                 "type": "category",
-                "label": "Writing Samples",
+                "label": "Digital Hub",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Writing Samples/defining-the-word-wanting",
-                    "label": "Defining The Word 'Wanting'"
+                    "id": "Digital-Hub/personal-philosophy",
+                    "label": "Personal Philosophy of Education"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Digital-Hub/teaching-competencies",
+                    "label": "Demonstration of Teaching Competencies"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Digital-Hub/commitment-students",
+                    "label": "Commitment to Students and Student Learning"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Digital-Hub/learning-leadership",
+                    "label": "Leadership in the Learning Community"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Digital-Hub/professional-development",
+                    "label": "Professional Development and Knowledge"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Digital-Hub/assessments",
+                    "label": "Assessments"
                   }
                 ]
+              },
+              {
+                "type": "doc",
+                "id": "list-of-works",
+                "label": "Publications and Writing Samples"
               }
             ]
           }

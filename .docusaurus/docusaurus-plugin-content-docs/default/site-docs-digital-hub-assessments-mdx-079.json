@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Digital-Hub/assessments",
+  "id": "Digital-Hub/assessments",
+  "title": "Assessments",
+  "description": "",
+  "source": "@site/docs/Digital-Hub/assessments.mdx",
+  "sourceDirName": "Digital-Hub",
+  "slug": "/Digital-Hub/assessments",
+  "permalink": "/docs/Digital-Hub/assessments",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_label": "Assessments",
+    "sidebar_position": 6,
+    "title": "Assessments"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Professional Development and Knowledge",
+    "permalink": "/docs/Digital-Hub/professional-development"
+  },
+  "next": {
+    "title": "Publications and Writing Samples",
+    "permalink": "/docs/list-of-works"
+  }
+}

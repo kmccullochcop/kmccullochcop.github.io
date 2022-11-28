@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Digital-Hub/professional-development",
+  "id": "Digital-Hub/professional-development",
+  "title": "Professional Development and Knowledge",
+  "description": "",
+  "source": "@site/docs/Digital-Hub/professional-development.mdx",
+  "sourceDirName": "Digital-Hub",
+  "slug": "/Digital-Hub/professional-development",
+  "permalink": "/docs/Digital-Hub/professional-development",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "Professional Development and Knowledge",
+    "sidebar_position": 5,
+    "title": "Professional Development and Knowledge"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Leadership in the Learning Community",
+    "permalink": "/docs/Digital-Hub/learning-leadership"
+  },
+  "next": {
+    "title": "Assessments",
+    "permalink": "/docs/Digital-Hub/assessments"
+  }
+}
