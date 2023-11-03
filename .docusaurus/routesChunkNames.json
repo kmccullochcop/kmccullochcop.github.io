@@ -1,158 +1,115 @@
 {
-  "/__docusaurus/debug-379": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-15-e-a17"
-    }
-  },
-  "/__docusaurus/debug/config-81b": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-15-e-a17"
-    }
-  },
-  "/__docusaurus/debug/content-8ea": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-15-e-a17"
-    },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
-  },
-  "/__docusaurus/debug/globalData-ded": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-15-e-a17"
-    }
-  },
-  "/__docusaurus/debug/metadata-ac5": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-15-e-a17"
-    }
-  },
-  "/__docusaurus/debug/registry-092": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-15-e-a17"
-    }
-  },
-  "/__docusaurus/debug/routes-4b9": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-15-e-a17"
-    }
-  },
   "/blog-48b": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---blog-34-f-aff"
+      "plugin": "34fbd94b"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-465-569"
+        "content": "4654a17c"
       }
     ],
-    "metadata": "metadata---blogb-2-b-df1"
+    "metadata": "b2b675dd"
   },
   "/blog/archive-7e1": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---blog-34-f-aff"
+      "plugin": "34fbd94b"
     },
-    "archive": "archive---blog-archiveb-2-f-393"
+    "archive": "b2f554cd"
   },
   "/blog/tags-de1": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__comp": "01a85c17",
     "__context": {
-      "plugin": "plugin---blog-34-f-aff"
+      "plugin": "34fbd94b"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "tags": "tags---blog-tagsa-70-da2"
+    "sidebar": "814f3328",
+    "tags": "a7023ddc"
   },
   "/blog/tags/hello-747": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-34-f-aff"
+      "plugin": "34fbd94b"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-465-569"
+        "content": "4654a17c"
       }
     ],
-    "tag": "tag---blog-tags-hello-30-a-bed",
-    "listMetadata": "listMetadata---blog-tags-hello-664-70a"
+    "tag": "30a24c52",
+    "listMetadata": "66406991"
   },
   "/blog/welcome-docusaurus-v2-401": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---blog-34-f-aff"
+      "plugin": "34fbd94b"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-welcome-docusaurus-v-2535-054"
+    "sidebar": "814f3328",
+    "content": "535abfc0"
   },
   "/markdown-page-fad": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---markdown-page-51-b-d92"
+      "plugin": "51b3d72e"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "393be207"
   },
   "/my-markdown-page-c10": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---markdown-page-51-b-d92"
+      "plugin": "51b3d72e"
     },
-    "content": "content---my-markdown-page-031-4dc"
+    "content": "03181aef"
   },
   "/my-react-page-fb5": {
-    "__comp": "__comp---site-src-pages-my-react-page-jsf-85-e77",
+    "__comp": "f8551aab",
     "__context": {
-      "plugin": "plugin---markdown-page-51-b-d92"
+      "plugin": "51b3d72e"
     },
-    "config": "config---my-react-page-5-e-9-dcc"
+    "config": "5e9f5e1a"
   },
   "/docs-770": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---docsf-4-e-df5"
+      "plugin": "f4e228ce"
     },
-    "versionMetadata": "versionMetadata---docs-935-398"
+    "versionMetadata": "935f2afb"
   },
   "/docs/Digital-Hub/assessments-e3c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-digital-hub-assessments-079-73e"
+    "__comp": "17896441",
+    "content": "079881b7"
   },
   "/docs/Digital-Hub/commitment-students-c54": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-digital-hub-commitment-studentse-1-d-884"
+    "__comp": "17896441",
+    "content": "e1d1f405"
   },
   "/docs/Digital-Hub/learning-leadership-3f2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-digital-hub-learning-leadershipc-75-ab2"
+    "__comp": "17896441",
+    "content": "c75b937a"
   },
   "/docs/Digital-Hub/personal-philosophy-cbd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-digital-hub-personal-philosophy-6-ed-fe3"
+    "__comp": "17896441",
+    "content": "6ed8406e"
   },
   "/docs/Digital-Hub/professional-development-2c9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-digital-hub-professional-development-772-330"
+    "__comp": "17896441",
+    "content": "77293d50"
   },
   "/docs/Digital-Hub/teaching-competencies-1f6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-digital-hub-teaching-competencies-5-a-6-ff7"
+    "__comp": "17896441",
+    "content": "5a6ef347"
   },
   "/docs/list-of-works-772": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-list-of-worksab-3-fd1"
+    "__comp": "17896441",
+    "content": "ab3e258f"
   },
   "/-643": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---markdown-page-51-b-d92"
+      "plugin": "51b3d72e"
     },
-    "config": "config---my-react-page-5-e-9-dcc"
+    "config": "5e9f5e1a"
   }
 }

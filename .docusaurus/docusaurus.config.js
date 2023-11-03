@@ -110,7 +110,7 @@ export default {
         }
       ],
       "style": "dark",
-      "copyright": "Copyright © 2022 Kathleen McCulloch-Cop. Built with Docusaurus."
+      "copyright": "Copyright © 2023 Kathleen McCulloch-Cop. Built with Docusaurus."
     },
     "prism": {
       "theme": {
