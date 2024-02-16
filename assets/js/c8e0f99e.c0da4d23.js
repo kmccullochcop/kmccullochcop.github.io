@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[820],{9878:e=>{e.exports=JSON.parse('{"label":"teaching-philosophy","permalink":"/blog/tags/teaching-philosophy","allTagsPath":"/blog/tags","count":4}')}}]);
