@@ -7,7 +7,7 @@ export default {
   "title": "Kathleen McCulloch-Cop",
   "url": "https://kmccullochcop.github.io",
   "baseUrl": "/",
-  "onBrokenLinks": "throw",
+  "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/sunflower.ico",
   "deploymentBranch": "master",
@@ -28,7 +28,9 @@ export default {
           "sidebarPath": "/Users/kathleenmcculloch-cop/Desktop/Projects/CodingProjects/my-website/sidebars.js"
         },
         "blog": {
-          "showReadingTime": true
+          "showReadingTime": true,
+          "blogSidebarTitle": "All Posts",
+          "blogSidebarCount": "ALL"
         },
         "theme": {
           "customCss": "/Users/kathleenmcculloch-cop/Desktop/Projects/CodingProjects/my-website/src/css/custom.css"
@@ -57,20 +59,13 @@ export default {
         },
         {
           "type": "doc",
-          "label": "Digital Hub",
-          "docId": "Digital-Hub/personal-philosophy",
-          "sidebarId": "Digital Hub",
-          "position": "left"
-        },
-        {
-          "type": "doc",
           "docId": "list-of-works",
           "position": "left",
           "label": "Writing Samples"
         },
         {
           "to": "blog",
-          "label": "Blog",
+          "label": "Digital Hub",
           "position": "left"
         }
       ],
@@ -110,7 +105,7 @@ export default {
         }
       ],
       "style": "dark",
-      "copyright": "Copyright © 2023 Kathleen McCulloch-Cop. Built with Docusaurus."
+      "copyright": "Copyright © 2024 Kathleen McCulloch-Cop. Built with Docusaurus."
     },
     "prism": {
       "theme": {

@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/2023/12/12/Grade7MathCurriculumMap",
+  "source": "@site/blog/2023-12-12-Grade7MathCurriculumMap.md",
+  "title": "Curriculum Map - Grade 7 Mathematics",
+  "description": "Curriculum Map for Ontario Grade 7 Mathematics Curriculum",
+  "date": "2023-12-12T00:00:00.000Z",
+  "formattedDate": "December 12, 2023",
+  "tags": [
+    {
+      "label": "lesson-plans",
+      "permalink": "/blog/tags/lesson-plans"
+    },
+    {
+      "label": "math",
+      "permalink": "/blog/tags/math"
+    }
+  ],
+  "readingTime": 0.545,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Kathleen McCulloch-Cop",
+      "imageURL": "/img/profilePic.png",
+      "key": "katie"
+    }
+  ],
+  "frontMatter": {
+    "title": "Curriculum Map - Grade 7 Mathematics",
+    "description": "Curriculum Map for Ontario Grade 7 Mathematics Curriculum",
+    "authors": "katie",
+    "tags": [
+      "lesson-plans",
+      "math"
+    ],
+    "hide_table_of_contents": false
+  },
+  "nextItem": {
+    "title": "Conceptual Framework - March 2023",
+    "permalink": "/blog/2023/03/30/conceptualframeworkdraft"
+  }
+}

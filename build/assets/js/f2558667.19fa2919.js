@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1425],{7092:e=>{e.exports=JSON.parse('{"label":"NBE3U","permalink":"/blog/tags/nbe-3-u","allTagsPath":"/blog/tags","count":1}')}}]);

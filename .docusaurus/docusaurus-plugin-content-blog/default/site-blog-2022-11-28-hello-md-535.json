@@ -16,7 +16,7 @@
   "authors": [
     {
       "name": "Kathleen McCulloch-Cop",
-      "imageURL": "https://github.com/kmccullochcop/kmccullochcop.github.io/img/profilePic.png",
+      "imageURL": "/img/profilePic.png",
       "key": "katie"
     }
   ],
@@ -29,5 +29,9 @@
       "hello"
     ],
     "hide_table_of_contents": false
+  },
+  "prevItem": {
+    "title": "Learning Blog - Literacy as a Resource",
+    "permalink": "/blog/2022/12/02/literacyasresource"
   }
 }

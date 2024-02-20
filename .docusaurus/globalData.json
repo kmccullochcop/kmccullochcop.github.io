@@ -8,38 +8,8 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "Digital-Hub/personal-philosophy",
+          "mainDocId": "list-of-works",
           "docs": [
-            {
-              "id": "Digital-Hub/assessments",
-              "path": "/docs/Digital-Hub/assessments",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Digital-Hub/commitment-students",
-              "path": "/docs/Digital-Hub/commitment-students",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Digital-Hub/learning-leadership",
-              "path": "/docs/Digital-Hub/learning-leadership",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Digital-Hub/personal-philosophy",
-              "path": "/docs/Digital-Hub/personal-philosophy",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Digital-Hub/professional-development",
-              "path": "/docs/Digital-Hub/professional-development",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Digital-Hub/teaching-competencies",
-              "path": "/docs/Digital-Hub/teaching-competencies",
-              "sidebar": "tutorialSidebar"
-            },
             {
               "id": "list-of-works",
               "path": "/docs/list-of-works",
@@ -50,8 +20,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/Digital-Hub/personal-philosophy",
-                "label": "Personal Philosophy of Education"
+                "path": "/docs/list-of-works",
+                "label": "Publications and Writing Samples"
               }
             }
           }

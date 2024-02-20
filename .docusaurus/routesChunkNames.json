@@ -1,5 +1,132 @@
 {
-  "/blog-48b": {
+  "/blog-abf": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "34fbd94b"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "862a0b2c"
+      },
+      {
+        "content": "8c0cae1f"
+      },
+      {
+        "content": "cb4096fa"
+      },
+      {
+        "content": "34c25ed2"
+      },
+      {
+        "content": "f266a1bb"
+      },
+      {
+        "content": "0cadef59"
+      },
+      {
+        "content": "39f38f75"
+      },
+      {
+        "content": "d0674dc7"
+      },
+      {
+        "content": "eccd3959"
+      },
+      {
+        "content": "720f3bd8"
+      }
+    ],
+    "metadata": "b2b675dd"
+  },
+  "/blog/2022/12/02/literacyasresource-7b7": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "34fbd94b"
+    },
+    "sidebar": "814f3328",
+    "content": "3b334f55"
+  },
+  "/blog/2022/12/03/reachingallstudents-1e1": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "34fbd94b"
+    },
+    "sidebar": "814f3328",
+    "content": "cf9e601e"
+  },
+  "/blog/2023/02/28/researchlessonplan-032": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "34fbd94b"
+    },
+    "sidebar": "814f3328",
+    "content": "2cd4a853"
+  },
+  "/blog/2023/02/28/seniorenglishreflection-dc3": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "34fbd94b"
+    },
+    "sidebar": "814f3328",
+    "content": "004321d0"
+  },
+  "/blog/2023/03/01/Ads1lessonplan-3fe": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "34fbd94b"
+    },
+    "sidebar": "814f3328",
+    "content": "7aeb4961"
+  },
+  "/blog/2023/03/02/Ads2lessonplan-88a": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "34fbd94b"
+    },
+    "sidebar": "814f3328",
+    "content": "388de331"
+  },
+  "/blog/2023/03/03/AdsSummative-2d8": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "34fbd94b"
+    },
+    "sidebar": "814f3328",
+    "content": "8da455d4"
+  },
+  "/blog/2023/03/21/NBE3Uunitplan-351": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "34fbd94b"
+    },
+    "sidebar": "814f3328",
+    "content": "a4f40609"
+  },
+  "/blog/2023/03/30/conceptualframeworkdraft-a2e": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "34fbd94b"
+    },
+    "sidebar": "814f3328",
+    "content": "fb619c4a"
+  },
+  "/blog/2023/12/12/Grade7MathCurriculumMap-c5d": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "34fbd94b"
+    },
+    "sidebar": "814f3328",
+    "content": "9f738f92"
+  },
+  "/blog/archive-7e1": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "34fbd94b"
+    },
+    "archive": "b2f554cd"
+  },
+  "/blog/page/2-c60": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "34fbd94b"
@@ -10,14 +137,7 @@
         "content": "4654a17c"
       }
     ],
-    "metadata": "b2b675dd"
-  },
-  "/blog/archive-7e1": {
-    "__comp": "9e4087bc",
-    "__context": {
-      "plugin": "34fbd94b"
-    },
-    "archive": "b2f554cd"
+    "metadata": "8eb4e46b"
   },
   "/blog/tags-de1": {
     "__comp": "01a85c17",
@@ -26,6 +146,43 @@
     },
     "sidebar": "814f3328",
     "tags": "a7023ddc"
+  },
+  "/blog/tags/assessment-activities-520": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "34fbd94b"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "34c25ed2"
+      }
+    ],
+    "tag": "79258ee2",
+    "listMetadata": "33d74608"
+  },
+  "/blog/tags/eng-4-c-036": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "34fbd94b"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "34c25ed2"
+      },
+      {
+        "content": "f266a1bb"
+      },
+      {
+        "content": "0cadef59"
+      },
+      {
+        "content": "39f38f75"
+      }
+    ],
+    "tag": "9c989fcf",
+    "listMetadata": "dfb20b8e"
   },
   "/blog/tags/hello-747": {
     "__comp": "6875c492",
@@ -40,6 +197,106 @@
     ],
     "tag": "30a24c52",
     "listMetadata": "66406991"
+  },
+  "/blog/tags/lesson-plans-dd6": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "34fbd94b"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "862a0b2c"
+      },
+      {
+        "content": "cb4096fa"
+      },
+      {
+        "content": "f266a1bb"
+      },
+      {
+        "content": "0cadef59"
+      },
+      {
+        "content": "39f38f75"
+      }
+    ],
+    "tag": "2456ddd7",
+    "listMetadata": "aeeec727"
+  },
+  "/blog/tags/math-547": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "34fbd94b"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "862a0b2c"
+      }
+    ],
+    "tag": "b573be3b",
+    "listMetadata": "0267ed29"
+  },
+  "/blog/tags/nbe-3-u-01a": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "34fbd94b"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "cb4096fa"
+      }
+    ],
+    "tag": "f2558667",
+    "listMetadata": "087856a0"
+  },
+  "/blog/tags/practicum-year-1-e39": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "34fbd94b"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "34c25ed2"
+      },
+      {
+        "content": "f266a1bb"
+      },
+      {
+        "content": "0cadef59"
+      },
+      {
+        "content": "39f38f75"
+      }
+    ],
+    "tag": "8610a7bd",
+    "listMetadata": "72668169"
+  },
+  "/blog/tags/teaching-philosophy-34b": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "34fbd94b"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "8c0cae1f"
+      },
+      {
+        "content": "d0674dc7"
+      },
+      {
+        "content": "eccd3959"
+      },
+      {
+        "content": "720f3bd8"
+      }
+    ],
+    "tag": "c8e0f99e",
+    "listMetadata": "ba6c44f8"
   },
   "/blog/welcome-docusaurus-v2-401": {
     "__comp": "ccc49370",
@@ -70,36 +327,12 @@
     },
     "config": "5e9f5e1a"
   },
-  "/docs-770": {
+  "/docs-f99": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "f4e228ce"
     },
     "versionMetadata": "935f2afb"
-  },
-  "/docs/Digital-Hub/assessments-e3c": {
-    "__comp": "17896441",
-    "content": "079881b7"
-  },
-  "/docs/Digital-Hub/commitment-students-c54": {
-    "__comp": "17896441",
-    "content": "e1d1f405"
-  },
-  "/docs/Digital-Hub/learning-leadership-3f2": {
-    "__comp": "17896441",
-    "content": "c75b937a"
-  },
-  "/docs/Digital-Hub/personal-philosophy-cbd": {
-    "__comp": "17896441",
-    "content": "6ed8406e"
-  },
-  "/docs/Digital-Hub/professional-development-2c9": {
-    "__comp": "17896441",
-    "content": "77293d50"
-  },
-  "/docs/Digital-Hub/teaching-competencies-1f6": {
-    "__comp": "17896441",
-    "content": "5a6ef347"
   },
   "/docs/list-of-works-772": {
     "__comp": "17896441",

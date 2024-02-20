@@ -4,7 +4,57 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '48b'),
+    component: ComponentCreator('/blog', 'abf'),
+    exact: true
+  },
+  {
+    path: '/blog/2022/12/02/literacyasresource',
+    component: ComponentCreator('/blog/2022/12/02/literacyasresource', '7b7'),
+    exact: true
+  },
+  {
+    path: '/blog/2022/12/03/reachingallstudents',
+    component: ComponentCreator('/blog/2022/12/03/reachingallstudents', '1e1'),
+    exact: true
+  },
+  {
+    path: '/blog/2023/02/28/researchlessonplan',
+    component: ComponentCreator('/blog/2023/02/28/researchlessonplan', '032'),
+    exact: true
+  },
+  {
+    path: '/blog/2023/02/28/seniorenglishreflection',
+    component: ComponentCreator('/blog/2023/02/28/seniorenglishreflection', 'dc3'),
+    exact: true
+  },
+  {
+    path: '/blog/2023/03/01/Ads1lessonplan',
+    component: ComponentCreator('/blog/2023/03/01/Ads1lessonplan', '3fe'),
+    exact: true
+  },
+  {
+    path: '/blog/2023/03/02/Ads2lessonplan',
+    component: ComponentCreator('/blog/2023/03/02/Ads2lessonplan', '88a'),
+    exact: true
+  },
+  {
+    path: '/blog/2023/03/03/AdsSummative',
+    component: ComponentCreator('/blog/2023/03/03/AdsSummative', '2d8'),
+    exact: true
+  },
+  {
+    path: '/blog/2023/03/21/NBE3Uunitplan',
+    component: ComponentCreator('/blog/2023/03/21/NBE3Uunitplan', '351'),
+    exact: true
+  },
+  {
+    path: '/blog/2023/03/30/conceptualframeworkdraft',
+    component: ComponentCreator('/blog/2023/03/30/conceptualframeworkdraft', 'a2e'),
+    exact: true
+  },
+  {
+    path: '/blog/2023/12/12/Grade7MathCurriculumMap',
+    component: ComponentCreator('/blog/2023/12/12/Grade7MathCurriculumMap', 'c5d'),
     exact: true
   },
   {
@@ -13,13 +63,53 @@ export default [
     exact: true
   },
   {
+    path: '/blog/page/2',
+    component: ComponentCreator('/blog/page/2', 'c60'),
+    exact: true
+  },
+  {
     path: '/blog/tags',
     component: ComponentCreator('/blog/tags', 'de1'),
     exact: true
   },
   {
+    path: '/blog/tags/assessment-activities',
+    component: ComponentCreator('/blog/tags/assessment-activities', '520'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/eng-4-c',
+    component: ComponentCreator('/blog/tags/eng-4-c', '036'),
+    exact: true
+  },
+  {
     path: '/blog/tags/hello',
     component: ComponentCreator('/blog/tags/hello', '747'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/lesson-plans',
+    component: ComponentCreator('/blog/tags/lesson-plans', 'dd6'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/math',
+    component: ComponentCreator('/blog/tags/math', '547'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/nbe-3-u',
+    component: ComponentCreator('/blog/tags/nbe-3-u', '01a'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/practicum-year-1',
+    component: ComponentCreator('/blog/tags/practicum-year-1', 'e39'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/teaching-philosophy',
+    component: ComponentCreator('/blog/tags/teaching-philosophy', '34b'),
     exact: true
   },
   {
@@ -44,44 +134,8 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '770'),
+    component: ComponentCreator('/docs', 'f99'),
     routes: [
-      {
-        path: '/docs/Digital-Hub/assessments',
-        component: ComponentCreator('/docs/Digital-Hub/assessments', 'e3c'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/Digital-Hub/commitment-students',
-        component: ComponentCreator('/docs/Digital-Hub/commitment-students', 'c54'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/Digital-Hub/learning-leadership',
-        component: ComponentCreator('/docs/Digital-Hub/learning-leadership', '3f2'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/Digital-Hub/personal-philosophy',
-        component: ComponentCreator('/docs/Digital-Hub/personal-philosophy', 'cbd'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/Digital-Hub/professional-development',
-        component: ComponentCreator('/docs/Digital-Hub/professional-development', '2c9'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/Digital-Hub/teaching-competencies',
-        component: ComponentCreator('/docs/Digital-Hub/teaching-competencies', '1f6'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
       {
         path: '/docs/list-of-works',
         component: ComponentCreator('/docs/list-of-works', '772'),

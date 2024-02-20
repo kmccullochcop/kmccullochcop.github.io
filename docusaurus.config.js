@@ -9,7 +9,7 @@ const config = {
   title: 'Kathleen McCulloch-Cop',
   url: 'https://kmccullochcop.github.io',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/sunflower.ico',
   deploymentBranch: 'master',
@@ -37,6 +37,8 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          blogSidebarTitle: 'All Posts',
+          blogSidebarCount:'ALL',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -66,13 +68,7 @@ const config = {
             target:'_blank',
             position: 'left',
           },
-          {
-            type: 'doc',
-            label: 'Digital Hub',
-            docId: 'Digital-Hub/personal-philosophy',
-            sidebarId: 'Digital Hub',
-            position: 'left',
-          },
+          
           {
             type: 'doc',
             docId: 'list-of-works',
@@ -81,7 +77,7 @@ const config = {
           },
           {
             to: 'blog',
-            label: 'Blog',
+            label: 'Digital Hub',
             position: 'left'
           },
 

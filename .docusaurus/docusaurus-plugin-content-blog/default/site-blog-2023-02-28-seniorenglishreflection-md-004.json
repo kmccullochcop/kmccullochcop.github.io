@@ -1,0 +1,40 @@
+{
+  "permalink": "/blog/2023/02/28/seniorenglishreflection",
+  "source": "@site/blog/2023-02-28-seniorenglishreflection.md",
+  "title": "Reflections on Teaching Senior English",
+  "description": "Draft conceptual framework",
+  "date": "2023-02-28T00:00:00.000Z",
+  "formattedDate": "February 28, 2023",
+  "tags": [
+    {
+      "label": "teaching-philosophy",
+      "permalink": "/blog/tags/teaching-philosophy"
+    }
+  ],
+  "readingTime": 4.345,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Kathleen McCulloch-Cop",
+      "imageURL": "/img/profilePic.png",
+      "key": "katie"
+    }
+  ],
+  "frontMatter": {
+    "title": "Reflections on Teaching Senior English",
+    "description": "Draft conceptual framework",
+    "authors": "katie",
+    "tags": [
+      "teaching-philosophy"
+    ],
+    "hide_table_of_contents": false
+  },
+  "prevItem": {
+    "title": "ENG4C Active Reading for Research Lesson Plan ",
+    "permalink": "/blog/2023/02/28/researchlessonplan"
+  },
+  "nextItem": {
+    "title": "Learning Blog - Reaching All Students",
+    "permalink": "/blog/2022/12/03/reachingallstudents"
+  }
+}

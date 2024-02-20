@@ -31,3 +31,7 @@
 a:hover{
   color: #df7373;
 }
+
+.markdown a:link{
+  text-decoration: underline dotted;
+}

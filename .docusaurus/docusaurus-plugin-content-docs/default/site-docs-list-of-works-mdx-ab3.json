@@ -16,9 +16,5 @@
     "sidebar_position": 2,
     "title": "Publications and Writing Samples"
   },
-  "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "Assessments",
-    "permalink": "/docs/Digital-Hub/assessments"
-  }
+  "sidebar": "tutorialSidebar"
 }

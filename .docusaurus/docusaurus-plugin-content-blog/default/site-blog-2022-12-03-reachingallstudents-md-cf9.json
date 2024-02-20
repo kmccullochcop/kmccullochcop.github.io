@@ -1,0 +1,40 @@
+{
+  "permalink": "/blog/2022/12/03/reachingallstudents",
+  "source": "@site/blog/2022-12-03-reachingallstudents.md",
+  "title": "Learning Blog - Reaching All Students",
+  "description": "learning blog post",
+  "date": "2022-12-03T00:00:00.000Z",
+  "formattedDate": "December 3, 2022",
+  "tags": [
+    {
+      "label": "teaching-philosophy",
+      "permalink": "/blog/tags/teaching-philosophy"
+    }
+  ],
+  "readingTime": 4.11,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Kathleen McCulloch-Cop",
+      "imageURL": "/img/profilePic.png",
+      "key": "katie"
+    }
+  ],
+  "frontMatter": {
+    "title": "Learning Blog - Reaching All Students",
+    "description": "learning blog post",
+    "authors": "katie",
+    "tags": [
+      "teaching-philosophy"
+    ],
+    "hide_table_of_contents": false
+  },
+  "prevItem": {
+    "title": "Reflections on Teaching Senior English",
+    "permalink": "/blog/2023/02/28/seniorenglishreflection"
+  },
+  "nextItem": {
+    "title": "Learning Blog - Literacy as a Resource",
+    "permalink": "/blog/2022/12/02/literacyasresource"
+  }
+}

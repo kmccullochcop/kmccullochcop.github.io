@@ -1,0 +1,50 @@
+{
+  "permalink": "/blog/2023/03/03/AdsSummative",
+  "source": "@site/blog/2023-03-03-AdsSummative.md",
+  "title": "ENG4C Advertising Summative Task",
+  "description": "Summative task from 2022-2023 Practicum",
+  "date": "2023-03-03T00:00:00.000Z",
+  "formattedDate": "March 3, 2023",
+  "tags": [
+    {
+      "label": "practicum-year1",
+      "permalink": "/blog/tags/practicum-year-1"
+    },
+    {
+      "label": "assessment-activities",
+      "permalink": "/blog/tags/assessment-activities"
+    },
+    {
+      "label": "ENG4C",
+      "permalink": "/blog/tags/eng-4-c"
+    }
+  ],
+  "readingTime": 3.71,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Kathleen McCulloch-Cop",
+      "imageURL": "/img/profilePic.png",
+      "key": "katie"
+    }
+  ],
+  "frontMatter": {
+    "title": "ENG4C Advertising Summative Task",
+    "description": "Summative task from 2022-2023 Practicum",
+    "authors": "katie",
+    "tags": [
+      "practicum-year1",
+      "assessment-activities",
+      "ENG4C"
+    ],
+    "hide_table_of_contents": false
+  },
+  "prevItem": {
+    "title": "NBE3U Unit Plan",
+    "permalink": "/blog/2023/03/21/NBE3Uunitplan"
+  },
+  "nextItem": {
+    "title": "ENG4C Advertising Part 2 Lesson Plan",
+    "permalink": "/blog/2023/03/02/Ads2lessonplan"
+  }
+}

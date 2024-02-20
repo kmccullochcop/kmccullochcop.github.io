@@ -1,0 +1,45 @@
+{
+  "permalink": "/blog/2023/03/21/NBE3Uunitplan",
+  "source": "@site/blog/2023-03-21-NBE3Uunitplan.md",
+  "title": "NBE3U Unit Plan",
+  "description": "Unit plan for NBE3U course",
+  "date": "2023-03-21T00:00:00.000Z",
+  "formattedDate": "March 21, 2023",
+  "tags": [
+    {
+      "label": "NBE3U",
+      "permalink": "/blog/tags/nbe-3-u"
+    },
+    {
+      "label": "lesson-plans",
+      "permalink": "/blog/tags/lesson-plans"
+    }
+  ],
+  "readingTime": 0.39,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Kathleen McCulloch-Cop",
+      "imageURL": "/img/profilePic.png",
+      "key": "katie"
+    }
+  ],
+  "frontMatter": {
+    "title": "NBE3U Unit Plan",
+    "description": "Unit plan for NBE3U course",
+    "authors": "katie",
+    "tags": [
+      "NBE3U",
+      "lesson-plans"
+    ],
+    "hide_table_of_contents": false
+  },
+  "prevItem": {
+    "title": "Conceptual Framework - March 2023",
+    "permalink": "/blog/2023/03/30/conceptualframeworkdraft"
+  },
+  "nextItem": {
+    "title": "ENG4C Advertising Summative Task",
+    "permalink": "/blog/2023/03/03/AdsSummative"
+  }
+}

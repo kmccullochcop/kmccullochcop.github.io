@@ -1,0 +1,40 @@
+{
+  "permalink": "/blog/2022/12/02/literacyasresource",
+  "source": "@site/blog/2022-12-02-literacyasresource.md",
+  "title": "Learning Blog - Literacy as a Resource",
+  "description": "learning blog post",
+  "date": "2022-12-02T00:00:00.000Z",
+  "formattedDate": "December 2, 2022",
+  "tags": [
+    {
+      "label": "teaching-philosophy",
+      "permalink": "/blog/tags/teaching-philosophy"
+    }
+  ],
+  "readingTime": 3.285,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Kathleen McCulloch-Cop",
+      "imageURL": "/img/profilePic.png",
+      "key": "katie"
+    }
+  ],
+  "frontMatter": {
+    "title": "Learning Blog - Literacy as a Resource",
+    "description": "learning blog post",
+    "authors": "katie",
+    "tags": [
+      "teaching-philosophy"
+    ],
+    "hide_table_of_contents": false
+  },
+  "prevItem": {
+    "title": "Learning Blog - Reaching All Students",
+    "permalink": "/blog/2022/12/03/reachingallstudents"
+  },
+  "nextItem": {
+    "title": "Welcome!",
+    "permalink": "/blog/welcome-docusaurus-v2"
+  }
+}
