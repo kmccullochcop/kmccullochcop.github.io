@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5320],{9381:e=>{e.exports=JSON.parse('{"label":"practicum-year2","permalink":"/blog/tags/practicum-year-2","allTagsPath":"/blog/tags","count":1}')}}]);
