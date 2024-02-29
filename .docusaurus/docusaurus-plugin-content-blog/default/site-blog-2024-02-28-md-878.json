@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/2024/02/28/",
+  "source": "@site/blog/2024-02-28.md",
+  "title": "Students 4 Change",
+  "description": "Students 4 Change",
+  "date": "2024-02-28T00:00:00.000Z",
+  "formattedDate": "February 28, 2024",
+  "tags": [
+    {
+      "label": "practicum-year2",
+      "permalink": "/blog/tags/practicum-year-2"
+    },
+    {
+      "label": "teaching-philosophy",
+      "permalink": "/blog/tags/teaching-philosophy"
+    }
+  ],
+  "readingTime": 0.71,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Kathleen McCulloch-Cop",
+      "imageURL": "/img/profilePic.png",
+      "key": "katie"
+    }
+  ],
+  "frontMatter": {
+    "title": "Students 4 Change",
+    "description": "Students 4 Change",
+    "authors": "katie",
+    "tags": [
+      "practicum-year2",
+      "teaching-philosophy"
+    ],
+    "hide_table_of_contents": false
+  },
+  "nextItem": {
+    "title": "Curriculum Map - Grade 7 Mathematics",
+    "permalink": "/blog/2023/12/12/Grade7MathCurriculumMap"
+  }
+}

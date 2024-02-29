@@ -73,11 +73,11 @@ const config = {
             type: 'doc',
             docId: 'list-of-works',
             position: 'left',
-            label: 'Writing Samples',
+            label: 'Fiction & Poetry Writing Samples',
           },
           {
             to: 'blog',
-            label: 'Digital Hub',
+            label: 'Digital Hub Portfolio',
             position: 'left'
           },
 

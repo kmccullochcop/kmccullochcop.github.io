@@ -1,11 +1,14 @@
 {
-  "/blog-abf": {
+  "/blog-301": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "34fbd94b"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "3fd7e5e1"
+      },
       {
         "content": "862a0b2c"
       },
@@ -32,9 +35,6 @@
       },
       {
         "content": "eccd3959"
-      },
-      {
-        "content": "720f3bd8"
       }
     ],
     "metadata": "b2b675dd"
@@ -119,6 +119,14 @@
     "sidebar": "814f3328",
     "content": "9f738f92"
   },
+  "/blog/2024/02/28/-3bb": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "34fbd94b"
+    },
+    "sidebar": "814f3328",
+    "content": "878a3f9f"
+  },
   "/blog/archive-7e1": {
     "__comp": "9e4087bc",
     "__context": {
@@ -126,13 +134,16 @@
     },
     "archive": "b2f554cd"
   },
-  "/blog/page/2-c60": {
+  "/blog/page/2-cf9": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "34fbd94b"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "720f3bd8"
+      },
       {
         "content": "4654a17c"
       }
@@ -275,13 +286,30 @@
     "tag": "8610a7bd",
     "listMetadata": "72668169"
   },
-  "/blog/tags/teaching-philosophy-34b": {
+  "/blog/tags/practicum-year-2-fd8": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "34fbd94b"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "3fd7e5e1"
+      }
+    ],
+    "tag": "fcc8e6f4",
+    "listMetadata": "09dd08df"
+  },
+  "/blog/tags/teaching-philosophy-2aa": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "34fbd94b"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "3fd7e5e1"
+      },
       {
         "content": "8c0cae1f"
       },

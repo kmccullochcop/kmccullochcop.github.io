@@ -4,7 +4,7 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/blog',
-    component: ComponentCreator('/blog', 'abf'),
+    component: ComponentCreator('/blog', '301'),
     exact: true
   },
   {
@@ -58,13 +58,18 @@ export default [
     exact: true
   },
   {
+    path: '/blog/2024/02/28/',
+    component: ComponentCreator('/blog/2024/02/28/', '3bb'),
+    exact: true
+  },
+  {
     path: '/blog/archive',
     component: ComponentCreator('/blog/archive', '7e1'),
     exact: true
   },
   {
     path: '/blog/page/2',
-    component: ComponentCreator('/blog/page/2', 'c60'),
+    component: ComponentCreator('/blog/page/2', 'cf9'),
     exact: true
   },
   {
@@ -108,8 +113,13 @@ export default [
     exact: true
   },
   {
+    path: '/blog/tags/practicum-year-2',
+    component: ComponentCreator('/blog/tags/practicum-year-2', 'fd8'),
+    exact: true
+  },
+  {
     path: '/blog/tags/teaching-philosophy',
-    component: ComponentCreator('/blog/tags/teaching-philosophy', '34b'),
+    component: ComponentCreator('/blog/tags/teaching-philosophy', '2aa'),
     exact: true
   },
   {
