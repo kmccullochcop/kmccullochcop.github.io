@@ -1,5 +1,5 @@
 {
-  "/blog-301": {
+  "/blog-7ca": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "34fbd94b"
@@ -7,7 +7,10 @@
     "sidebar": "814f3328",
     "items": [
       {
-        "content": "3fd7e5e1"
+        "content": "bfc6f0e6"
+      },
+      {
+        "content": "f6acf05e"
       },
       {
         "content": "862a0b2c"
@@ -32,9 +35,6 @@
       },
       {
         "content": "d0674dc7"
-      },
-      {
-        "content": "eccd3959"
       }
     ],
     "metadata": "b2b675dd"
@@ -119,13 +119,21 @@
     "sidebar": "814f3328",
     "content": "9f738f92"
   },
-  "/blog/2024/02/28/-3bb": {
+  "/blog/2024/02/28/S4C-03d": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "34fbd94b"
     },
     "sidebar": "814f3328",
-    "content": "878a3f9f"
+    "content": "44348a32"
+  },
+  "/blog/2024/03/18/uccframeworkfinal-dfa": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "34fbd94b"
+    },
+    "sidebar": "814f3328",
+    "content": "9f176006"
   },
   "/blog/archive-7e1": {
     "__comp": "9e4087bc",
@@ -134,13 +142,16 @@
     },
     "archive": "b2f554cd"
   },
-  "/blog/page/2-cf9": {
+  "/blog/page/2-958": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "34fbd94b"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "eccd3959"
+      },
       {
         "content": "720f3bd8"
       },
@@ -286,7 +297,7 @@
     "tag": "8610a7bd",
     "listMetadata": "72668169"
   },
-  "/blog/tags/practicum-year-2-fd8": {
+  "/blog/tags/practicum-year-2-b53": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "34fbd94b"
@@ -294,13 +305,13 @@
     "sidebar": "814f3328",
     "items": [
       {
-        "content": "3fd7e5e1"
+        "content": "f6acf05e"
       }
     ],
     "tag": "fcc8e6f4",
     "listMetadata": "09dd08df"
   },
-  "/blog/tags/teaching-philosophy-2aa": {
+  "/blog/tags/teaching-philosophy-30e": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "34fbd94b"
@@ -308,7 +319,10 @@
     "sidebar": "814f3328",
     "items": [
       {
-        "content": "3fd7e5e1"
+        "content": "bfc6f0e6"
+      },
+      {
+        "content": "f6acf05e"
       },
       {
         "content": "8c0cae1f"

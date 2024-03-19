@@ -1,0 +1,36 @@
+{
+  "permalink": "/blog/2024/03/18/uccframeworkfinal",
+  "source": "@site/blog/2024-03-18-uccframeworkfinal.mdx",
+  "title": "Personal Philosophy of Teaching",
+  "description": "UCC conceptual framework",
+  "date": "2024-03-18T00:00:00.000Z",
+  "formattedDate": "March 18, 2024",
+  "tags": [
+    {
+      "label": "teaching-philosophy",
+      "permalink": "/blog/tags/teaching-philosophy"
+    }
+  ],
+  "readingTime": 8.62,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Kathleen McCulloch-Cop",
+      "imageURL": "/img/profilePic.png",
+      "key": "katie"
+    }
+  ],
+  "frontMatter": {
+    "title": "Personal Philosophy of Teaching",
+    "description": "UCC conceptual framework",
+    "authors": "katie",
+    "tags": [
+      "teaching-philosophy"
+    ],
+    "hide_table_of_contents": false
+  },
+  "nextItem": {
+    "title": "Students 4 Change",
+    "permalink": "/blog/2024/02/28/S4C"
+  }
+}

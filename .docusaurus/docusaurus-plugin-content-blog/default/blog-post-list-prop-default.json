@@ -2,8 +2,12 @@
   "title": "All Posts",
   "items": [
     {
+      "title": "Personal Philosophy of Teaching",
+      "permalink": "/blog/2024/03/18/uccframeworkfinal"
+    },
+    {
       "title": "Students 4 Change",
-      "permalink": "/blog/2024/02/28/"
+      "permalink": "/blog/2024/02/28/S4C"
     },
     {
       "title": "Curriculum Map - Grade 7 Mathematics",
